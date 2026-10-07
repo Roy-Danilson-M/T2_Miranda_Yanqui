@@ -14,3 +14,6 @@ Repositorio correspondiente a la Evaluación 02 del curso Lenguaje de Programaci
 ## Evidencia T2
 
 Evaluación 02 de Lenguaje de Programación II: preparación y control de versiones del proyecto mediante Git.
+## Control de cambios
+
+Sección utilizada para demostrar el control de modificaciones y el área de preparación mediante Git.

@@ -1,0 +1,1 @@
+Archivo creado para verificar el control de cambios y el manejo del área de preparación mediante Git.
