@@ -17,3 +17,7 @@ Evaluación 02 de Lenguaje de Programación II: preparación y control de versio
 ## Control de cambios
 
 Sección utilizada para demostrar el control de modificaciones y el área de preparación mediante Git.
+
+## Gestión de ramas
+
+Se creó la rama feature-miranda para desarrollar de forma independiente la clase ControlVersion_Miranda.java y posteriormente integrarla a la rama main.
